@@ -9,7 +9,9 @@ The main work for this project is contained within the 'mlsproject.ipynb' file. 
 
 The main aim of this project is as follows:
 
- - Use descriptive statistics and plots to describe the Boston House Prices datase
+ - Use descriptive statistics and plots to describe the Boston House Prices dataset
  - Use inferential statiscs to analyse whether there is a significant difference in median house prices between houses that are along the Charles river and those that aren't
  - Use keras to create a neural network that can predict the median house price based on the other variables in the dataset
+
+ 
 
